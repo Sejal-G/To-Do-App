@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-projects",
+  "version": "1.0.0",
+  "description": "hello\r Students\r Students contact the mentor organizations they want to work with and write up a project proposal for the summer. If accepted, students spend a few weeks integrating with their organizations prior to the start of coding. Students then have 10 weeks to code, meeting the deadlines agreed upon with their mentors.",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "ISC"
+}
